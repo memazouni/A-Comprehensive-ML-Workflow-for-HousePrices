@@ -1,4 +1,4 @@
-# A-Comprehensive-ML-Workflow-for-HousePrices
+
  ## <div align="center">  A Comprehensive ML Workflow for House Prices</div>
 
 There are plenty of **courses and tutorials** that can help you learn machine learning from scratch but here in **Kaggle**, I want to predict **House prices**  a popular machine learning Dataset as a comprehensive workflow with python packages. 
@@ -166,3 +166,31 @@ The variables are :
 
 ### 4-2 Outputs
 * sale prices for every record in test.csv
+<a id="15"></a> <br>
+## 5-5 Loading Packages
+In this kernel we are using the following packages:
+ <img src="http://s8.picofile.com/file/8338227868/packages.png">
+ Now we import all of them 
+ <a id="16"></a> <br>
+## 6- Exploratory Data Analysis(EDA)
+ In this section, you'll learn how to use graphical and numerical techniques to begin uncovering the structure of your data. 
+ 
+* Which variables suggest interesting relationships?
+* Which observations are unusual?
+
+By the end of the section, you'll be able to answer these questions and more, while generating graphics that are both insightful and beautiful.  then We will review analytical and statistical operations:
+
+*   5-1 Data Collection
+*   5-2 Visualization
+*   5-3 Data Preprocessing
+*   5-4 Data Cleaning
+<img src="http://s9.picofile.com/file/8338476134/EDA.png">
+<a id="17"></a> <br>
+## 6-1 Data Collection
+**Data collection** is the process of gathering and measuring data, information or any variables of interest in a standardized and established manner that enables the collector to answer or test hypothesis and evaluate outcomes of the particular collection.[techopedia]
+
+
+> **<< Note >>**
+
+> **The rows being the samples and the columns being attributes**
+
